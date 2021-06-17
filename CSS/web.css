@@ -1,0 +1,128 @@
+.css {
+	color: aqua;
+	float:left;
+	width:100%;
+	font-size:18px;
+	font-family:Palatino;
+    font-weight: 200;
+	padding-right: 50px;
+	padding-left: 49px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+body {
+    margin: 0px;
+	margin-right: 100px;
+	margin-left: 0px;
+}
+
+.left {
+	color: black;
+	float:left;
+	word-spacing: 10px;
+}
+
+.right {
+	float:right;
+	word-spacing: 10px;
+}
+
+.css2 {
+	font-family:Bahnschrift SemiBold;
+	color: #005EFF;
+	text-shadow: 2px 2px 3px #2FDADA;
+	padding-left: 25px;
+	padding-top: 35px;
+	font-size: 40px;
+}
+
+.dongianlaa {color: #8904B1;}
+.dongianlaa2 {color: #8904B1;}
+.dongianlaa3 {color: #8904B1;}
+.dongianlaa:hover {color: aqua;}
+.dongianlaa2:hover {color: gray;}
+.dongianlaa3:hover {color: red;}
+.dongianlaa:active {color: black;}
+.dongianlaa2:active {color: black;}
+.dongianlaa3:active {color: black;}
+.linktai:hover {color: aqua;}
+.linktai {color: #0CFF00;}
+.linktai:active {color: #FF4600;}
+
+a{text-decoration: none}
+
+.s1 {
+	word-spacing: 2px;
+	font-size: 15px;
+	font-family:Agency FB;
+	color:blue;
+	padding: 7px;
+}
+
+.mailhome{
+	font-size: 16px;
+	font-family:Agency FB;
+	word-spacing: 20px;
+	color:#691267
+}
+
+.mailhome2{
+	font-size: 18px;
+	font-family:Agency FB;
+	word-spacing: 2px;
+	color:#691267
+}
+
+.s2 {
+	padding: 7px;
+	word-spacing: 2px;
+	font-size: 15px;
+	font-family:Agency FB;
+	color:#28CA5C;
+}
+
+.tag {color:#CE0071; word-spacing: 3px; font-size: 15px; font-family:Agency FB; }
+
+.hr1 {
+	margin: 0px;
+	margin-right:-100px;
+	opacity: 0.3;
+}
+
+.a1 {padding: 15px; padding-left: 20px; padding-right: 20px}
+.a1:hover{background-color:#65F1F1; transition: 1s;}
+.a2 {padding: 15px; padding-left: 20px; padding-right: 20px}
+.a2:hover{background-color:#65F1F1; transition: 1s;}
+
+
+
+
+.s1:hover{background-color: #E6E6E6; transition: 0.5s;}
+.s1:active{color:black;}
+.s2:hover{background-color: #E6E6E6; transition: 0.5s;}
+.s1:active{color:black;}
+
+
+.TrangChuHome {
+	text-shadow: none;
+	color: black;
+	font-size: 20px;
+	background-color: none;
+	height: 15px;
+	float: right;
+	padding-top: 0px;
+	margin-top: 24px;
+	padding-right: 30px;
+}
+
+.css3 {padding-top: 200px; font-size: 50px; margin-right: -75px; color: red; font-family:Bahnschrift SemiBold;}
+
+.gtpre {padding-left: 100px; padding-top:50px}
+
+.anhpre {padding-left: 50px}
+
+.t2fp {padding-left: 90px; padding-top: 5px;}
+
+.discordsupport {color:#FFBD00;}
+.discordsupport:hover{color: #00FBFF;}
+.discordsupport:active{color: #04005F;}

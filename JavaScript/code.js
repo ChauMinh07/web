@@ -1,0 +1,1 @@
+alert("Chào mừng đến với ZND. Vui lòng nhấn OK để vào trang")
